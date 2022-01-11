@@ -1,0 +1,12 @@
+world = mundo
+kiss = beijo
+girl = garota
+mother = mãe
+father = pai
+strawberry = morango
+apple = maça
+bike = bicicleta
+phone = telefone
+computer = computador
+address = endereço
+name = nome
